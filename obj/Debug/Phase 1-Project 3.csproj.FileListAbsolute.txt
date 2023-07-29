@@ -1,0 +1,8 @@
+E:\Assisted\Phase 1-Project 3\Phase 1-Project 3\bin\Debug\Phase 1-Project 3.exe.config
+E:\Assisted\Phase 1-Project 3\Phase 1-Project 3\bin\Debug\Phase 1-Project 3.exe
+E:\Assisted\Phase 1-Project 3\Phase 1-Project 3\bin\Debug\Phase 1-Project 3.pdb
+E:\Assisted\Phase 1-Project 3\Phase 1-Project 3\obj\Debug\Phase 1-Project 3.csproj.AssemblyReference.cache
+E:\Assisted\Phase 1-Project 3\Phase 1-Project 3\obj\Debug\Phase 1-Project 3.csproj.SuggestedBindingRedirects.cache
+E:\Assisted\Phase 1-Project 3\Phase 1-Project 3\obj\Debug\Phase 1-Project 3.csproj.CoreCompileInputs.cache
+E:\Assisted\Phase 1-Project 3\Phase 1-Project 3\obj\Debug\Phase 1-Project 3.exe
+E:\Assisted\Phase 1-Project 3\Phase 1-Project 3\obj\Debug\Phase 1-Project 3.pdb
